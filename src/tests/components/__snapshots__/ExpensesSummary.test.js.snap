@@ -3,10 +3,14 @@
 exports[`Should display correctly with expenses 1`] = `
 <div>
   <p>
-    Viewing 3 expenses
+    Viewing 
+    5
+     
+    expenses
   </p>
   <p>
-    Totaling $768.89
+    Totaling 
+    $3.46
   </p>
 </div>
 `;
@@ -14,10 +18,13 @@ exports[`Should display correctly with expenses 1`] = `
 exports[`Should display correctly without expenses 1`] = `
 <div>
   <p>
-    Viewing undefined expenses
+    Viewing 
+     
+    expenses
   </p>
   <p>
-    Totaling $0.00
+    Totaling 
+    $0.00
   </p>
 </div>
 `;
